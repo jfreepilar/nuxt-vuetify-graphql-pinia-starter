@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'd-din_condensedregular';
+    src: url('@/assets/font/d-dincondensed.woff2') format('woff2'),
+         url('@/assets/font/d-dincondensed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+    color: white;
+    font-family: 'd-din_condensed', Arial, Verdana, sans-serif;
+}

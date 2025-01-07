@@ -40,7 +40,12 @@
 	},
 	"dependencies": {
 		"@mdi/font": "^7.2.96",
+		"@nuxt/types": "^2.18.1",
 		"@pinia/nuxt": "^0.5.1",
+		"@vue/apollo-composable": "^4.2.1",
+		"@vue/apollo-option": "^4.2.0",
+		"graphql-tag": "^2.12.6",
+		"pinia": "^2.3.0",
 		"sass": "^1.68.0",
 		"vuetify": "^3.3.23"
 	},
