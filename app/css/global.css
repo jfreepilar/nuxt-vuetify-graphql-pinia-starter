@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'd-din_condensedregular';
-    src: url('../assets/font/d-din-condensed/d-dincondensed-bold.woff2') format('woff2'),
-         url('../assets/font/d-dincondensed/d-dincondensed.woff') format('woff');
+    src: url('../assets/font/d-dincondensed.woff2') format('woff2'),
+         url('../assets/font/d-dincondensed.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
